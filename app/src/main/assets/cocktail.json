@@ -1,0 +1,52 @@
+[
+  {
+    "cocktailFile": "p1",
+    "cocktailName": "Green Day in Bangkok ",
+    "price":"410 bath",
+    "place": "Find The Locker Room ทองหล่อ ซอย 10",
+    "description": "ดัดแปลงจาก Dark & Stormy เบสด้วยรัมอินฟิวส์ตะไคร้ ผสมโฮมเมดไซรัป จิงเจอร์เอล น้ำมะนาว และโซดา  "
+  },
+  {
+    "cocktailFile": "p2",
+    "cocktailName": "Siam Dove ",
+    "price":"251 bath",
+    "place": "Find The Photo Booth ร้าน Score Bar สุขุมวิทซอย 11",
+    "description": "เบสเป็นเตกิล่า รสสัมผัสที่นุ่มลึก ด้านบนมีโฟม IPA ที่มีความหอมกลิ่น Grapefruit"
+  },
+   {
+    "cocktailFile": "p3",
+    "cocktailName": "Chocolate Factory",
+    "price":"390 bath",
+    "place": "Libérationโครงการพิมาน 49 สุขุมวิท 49",
+    "description": "เลือกใช้ Pisco, Gin และ Cacao Butter มาแต่งกลิ่นค็อกเทลให้เป็นแบบ Fat Wash ก่อนจะท็อปบนด้วย Chocolate Garnish ที่มาเพิ่มรสสัมผัสให้กับเครื่องดื่มแก้วนี้"
+  },
+  {
+    "cocktailFile": "p4",
+    "cocktailName": "Green Smoke",
+    "price":"350 bath",
+    "place": "Ku Thai Bar 178/1 ซอยสวนพลู เขตสาทร",
+    "description": "ค็อกเทลที่ใช้ Rum อินฟิวส์กับชามะลิ ก่อนจะราดบรั่นดี Meridian V.S.O.P จุดไฟ แล้วตกแต่งด้วยโรสแมรีรมควัน มีรสหอมหวานคล้ายกับ Spirit Forward Cocktail"
+  },
+  {
+    "cocktailFile": "p5",
+    "cocktailName": "1920s ",
+    "price":"360 bath",
+    "place": "008 Bar Akyra Sukhumvit Bangkok Hotel ชั้น 11 สุขุมวิท 55",
+    "description": "ค็อกเทลที่กำเนิดในช่วงสมัยสงครามโลก Golden Age 20 ช่วงนั้นมีเรื่องของสังคม การเมือง ความวุ่นวาย จึงอยากทำให้แก้วนี้มีความน่าสนใจในเรื่องของรสชาติ โดยใช้ Whitley Dry Gin แล้วเพิ่มกลิ่นหอม ๆ ด้วยเหล้า Campari ก่อนจะนำเปลือกส้มไปอินฟิวส์ด้วยเวอร์มุธ ให้กลิ่นและรสชาติคล้ายกับเนโกรนี เพียงทำให้ทานง่ายขึ้น และไม่เข้มเหมือนต้นฉบับ"
+  },
+  {
+    "cocktailFile": "p6",
+    "cocktailName": "Deep / Shallow",
+    "price":"370 bath",
+    "place": "Vesper ซอยคอนแวนต์ สีลม",
+    "description": "ค็อกเทลสไตล์ Tropical Drink ที่ดื่มง่ายและรวมหลากหลาย Element ของรสชาติเอาไว้ ไม่ว่าจะเป็นการเบสรสชาติด้วย Smoked Whisky ที่ให้รสชาติเหมือนน้ำทะเล ด้วยการเลือกใช้ส่วนผสมของสาหร่ายวากาเมะอบแห้ง รวมเข้ากับ Bacardi Carta Blanca น้ำสับปะรดและน้ำมะพร้าว ได้กลิ่นอายของการไปนั่งจิบเครื่องดื่มริมทะเลเลยทีเดียว"
+  },
+  {
+    "cocktailFile": "p7",
+    "cocktailName": "Le Pierriot",
+    "price":"360 bath",
+    "place": "Penthouse Bar + Grill Park Hyatt Bangkok Hotel ",
+    "description": "ที่เบสด้วยเหล้าส้มหอม ๆ ให้รสเปรี้ยวนำหวานตาม และสัมผัสของสมุนไพรปิดท้าย"
+  }
+]
+ 
